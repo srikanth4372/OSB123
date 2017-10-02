@@ -1,0 +1,8 @@
+{
+  "name": "sukku",
+  "app_id": "a19cabed",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
